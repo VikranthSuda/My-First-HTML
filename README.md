@@ -1,2 +1,2 @@
-# My-First-HTML Project, (project 1)
-This is my first HTML project with basic tags and words 
+# HTML-CSS-JS
+My 50 week journey
